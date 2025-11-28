@@ -1,4 +1,4 @@
-# Plasticity modpack Installer
+# Plasticity modpack installer
 
 📖 [Read this documentation in Russian](https://github.com/Kolesan-san/Plasticity_modpack_installer/blob/main/README_RU.md)
 
