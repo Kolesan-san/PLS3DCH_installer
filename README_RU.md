@@ -1,4 +1,4 @@
-# Plasticity modpack Installer
+# Plasticity modpack installer
 
 Простой установщик модов со структурой как у **PLS3DCH** для **Plasticity**.
 
