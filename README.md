@@ -1,12 +1,15 @@
 # Plasticity modpack installer
 
+The developer of PLS3DCH deleted mod repository. You should use advance tab. 
+The method is valid only for Plasticity v2025.1.xx - v2025.2.xx
+
 📖 [Read this documentation in Russian](https://github.com/Kolesan-san/Plasticity_modpack_installer/blob/main/README_RU.md)
 
 ---
 
 ## 🟢 Base Mode
 
-Recommended for most users.
+Recommended for most users. 
 
 - **Update & Install**: Automatically checks for updates, downloads, and installs the latest version in one click.
 - **Auto-detect path**: Automatically finds the Plasticity installation folder.
